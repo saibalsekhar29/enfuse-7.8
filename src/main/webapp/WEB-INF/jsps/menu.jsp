@@ -6,8 +6,8 @@
 <meta charset="ISO-8859-1">
 </head>
 <body>
-	<a href="\">Create new Lead</a>
-	<a href="\listall">Leads</a>
-	<a href="\listcontacts">Contacts</a>
+	<a href="\">|Create new Lead|</a>
+	<a href="\listall">|Leads|</a>
+	<a href="\listcontacts">|Contacts|</a>
 </body>
 </html>
